@@ -1,0 +1,26 @@
+{
+  "name": "La tua strategia, costruita su di te — Generali",
+  "short_name": "Strategia Cliente",
+  "description": "Questionario interattivo per consulenti Generali: obiettivo, tempo, rischio e anagrafica cliente.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F2EE",
+  "theme_color": "#C8102E",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
